@@ -15,13 +15,28 @@ The materials in this repo are based on various online resources, including Udem
 The repository is divided into several sections, each dedicated to a different topic in Python:
 
 - Basic Syntax
+- Python Fundamentals
 - Variables
 - Data Types
 - Flow Control
 - Functions
-- Modules
 - Exception Handling
 - File I/O
+- Array implementation
+- File methods
+- Keywords and Identifiers
+- Python Tuples
+- Data Structures
+- Object-Oriented Programming with Python
+- Functional Programming with Python
+- Lambdas
+- Decorators
+- Generators
+- Testing in Python
+- Debugging
+- Regular Expressions
+- Comprehensions
+- Modules
 - Advanced Topics
 
 Each section contains corresponding code examples and explanations.
