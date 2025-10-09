@@ -40,7 +40,7 @@ jobs:
 
       # Build the book
       - name: Build the book
-        run: uv run jupyter-book build python_revision
+        run: uv run jupyter-book build .
 
       # Upload the book's HTML as an artifact
       - name: Upload artifact
