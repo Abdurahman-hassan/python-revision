@@ -4,5 +4,10 @@ version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.12"
 dependencies = [
+    "cookiecutter>=2.6.0",
+    "ghp-import>=2.1.0",
+    "jupyter-book>=1.0.4.post1",
+    "matplotlib>=3.10.7",
     "notebook>=7.4.7",
+    "numpy>=2.3.3",
 ]
