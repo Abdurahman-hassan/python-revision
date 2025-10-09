@@ -29,6 +29,7 @@ The repository is divided into several sections, each dedicated to a different t
 - Data Structures
 - Object-Oriented Programming with Python
 - Functional Programming with Python
+- shallow copy vs deepcopy
 - Lambdas
 - Decorators
 - Generators
@@ -47,7 +48,7 @@ The code is contained within Jupyter notebooks (.ipynb files) for interactive le
 
 To use the Python Revision Repository:
 
-1. Clone this repository to your local machine using `git clone https://github.com/{your-github-username}/python-revision.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/Abdurahman-hassan/python-revision`.
 
 2. Navigate to the cloned repository.
 
