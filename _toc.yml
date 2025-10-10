@@ -4,4 +4,8 @@
 format: jb-book
 root: intro
 chapters:
-- file: README
+  - file: README
+  - file: python_revesion
+  - file: CONTRIBUTING
+  - file: CONDUCT
+  - file: LICENSE
